@@ -13,7 +13,7 @@ public class ArrayProgram extends javax.swing.JFrame {
     /**
      * Creates new form ArrayProgram
      */
-    
+    //this is a comment
     int[] numList = new int[20];
     int index = 0; 
     
